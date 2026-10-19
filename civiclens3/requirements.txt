@@ -1,5 +1,12 @@
-streamlit>=1.40,<2
-pandas>=2.0,<4
-numpy>=1.26
-plotly>=5.20,<8
-pytest>=8.0
+# streamlit>=1.40,<2
+# pandas>=2.0,<4
+# numpy>=1.26
+# plotly>=5.20,<8
+# pytest>=8.0
+
+
+# streamlit
+# pandas
+# numpy
+# plotly
+# pytest
