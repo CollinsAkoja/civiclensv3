@@ -151,3 +151,6 @@ anything that uses the model, and cite the exact model tag you used (the app sto
 Photo evidence, map view (Folium), Hausa / Yoruba / Igbo / Pidgin support, background classification queue,
 per-reviewer accounts with an audit trail, a hosted database, SMS or WhatsApp intake, and consent and
 data-protection review with a real pilot community before collecting live reports.
+`````````
+Author : Collins Akoja Nathaniels
+````````
