@@ -1,0 +1,22 @@
+id,title,true_category,predicted
+6,Unfinished construction work,Roads and potholes,Other
+16,Collapsed culvert,Drainage and flooding,Roads and potholes
+17,Water level rising,Drainage and flooding,Other
+20,Blocked drainage channel,Drainage and flooding,Roads and potholes
+25,Market leftovers attracting flies,Waste and sanitation,Other
+27,Overflowing waste bins,Waste and sanitation,Drainage and flooding
+28,Dead animals on roadside,Waste and sanitation,Roads and potholes
+29,Plastic choking the stream,Waste and sanitation,Other
+32,Burst pipe wasting water,Water supply,Roads and potholes
+34,Water scarcity,Water supply,Other
+38,Low water pressure,Water supply,Other
+40,Water tanker price increase,Water supply,Other
+41,Streetlights not working,Streetlights and public facilities,Roads and potholes
+45,Lamp post leaning dangerously,Streetlights and public facilities,Roads and potholes
+47,Public library roof leaking,Streetlights and public facilities,Other
+48,Stolen road signs,Streetlights and public facilities,Roads and potholes
+49,Dark market area,Streetlights and public facilities,Other
+50,Health centre gate broken,Streetlights and public facilities,Other
+53,Cars parked on walkway,Other,Roads and potholes
+55,Kiosks blocking the view,Other,Roads and potholes
+59,Loud generator at night,Other,Water supply
