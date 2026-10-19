@@ -156,3 +156,7 @@ data-protection review with a real pilot community before collecting live report
 `````````
 Author : Collins Akoja Nathaniels
 ````````
+visit the live app on streamlit @ 
+````````````
+https://civiclensv3-dlndhc3yff9ce9yw3z7py7.streamlit.app/
+````````
