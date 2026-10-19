@@ -138,6 +138,8 @@ synthetic data, but a real deployment needs an external database, reviewer accou
   different words and can flag distinct problems on the same street.
 - Reviewer access uses one shared password. That suits a prototype, not production.
 - No photo uploads, maps or multilingual (Hausa, Yoruba, Igbo) support yet.
+- There is no in-app consent, retention or report-deletion workflow. Agree and publish these rules before
+  collecting real community reports.
 - Counts reflect who reports, not necessarily where problems are worst.
 - Classification is synchronous: the form waits for the model.
 

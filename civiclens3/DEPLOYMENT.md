@@ -42,9 +42,12 @@ Things to know:
    the existing backend interface (`name` plus `classify(report)`) so nothing else changes.
 3. **Accounts:** replace the shared password with individual reviewer accounts, hashed credentials and an
    audit log of every review action.
-4. **Data protection:** agree consent, retention and access rules with the pilot community and any partner
-   organisation, and review them against Nigerian data-protection requirements before collecting live reports.
+4. **Data protection:** before collecting live reports, publish what data is collected and why, who can
+   access or receive it, how long it is kept, and how a person can request correction or deletion. Build and
+   test the corresponding consent, retention and deletion processes; the prototype does not provide them.
+   Review the plan against Nigerian data-protection requirements with the pilot community and partners.
 5. **Operations:** background classification so the form returns immediately, error monitoring, regular
-   database backups, and a process for reviewers to handle urgent reports outside the app.
+   database backups with a tested restore process, and a process for reviewers to handle urgent reports
+   outside the app.
 6. **Safety:** AI urgency is only a suggestion. Publish a clear route for genuine emergencies (emergency
    services and local authorities), because this app is not an emergency channel.

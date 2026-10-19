@@ -76,6 +76,11 @@ tab_submit, tab_dash, tab_review = st.tabs(["Submit a report", "Dashboard", "Rev
 
 # ------------------------------------------------------------------ Submit
 with tab_submit:
+    st.warning(
+        "CivicLens is not an emergency reporting service. For immediate danger "
+        "or urgent safety issues, contact the appropriate emergency services "
+        "or local authorities directly; do not wait for a CivicLens review."
+    )
     with st.form("report_form", clear_on_submit=True):
         title = st.text_input("Issue title", max_chars=120)
         description = st.text_area(
